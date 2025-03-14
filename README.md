@@ -6,6 +6,7 @@ This Course is partt of [Cairo University Software Engineering Professional Mast
 
 
 # Landing Page
+https://claude.site/artifacts/7c8ddb4f-6fda-4222-a8d5-4512bf53fa80
 
 
 # Dashboard for admin 
